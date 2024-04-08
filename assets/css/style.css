@@ -1,0 +1,8 @@
+body {
+  
+}
+
+/* this centers the input forums  */
+label, input {
+    display: block;
+}
